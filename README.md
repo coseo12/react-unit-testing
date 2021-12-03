@@ -1,3 +1,3 @@
 # React unit testing
 
-Unit testing
+Unit testing + Component testing
